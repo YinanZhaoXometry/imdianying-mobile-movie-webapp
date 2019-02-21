@@ -1,7 +1,3 @@
-# imdianying-mobile-movie-site
-i'm电影是一款移动端电影网站，可以选座，购票
-
-
 # imdianying
 
 ## Project setup
@@ -28,3 +24,6 @@ npm run test
 ```
 npm run lint
 ```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
